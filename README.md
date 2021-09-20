@@ -1,0 +1,1 @@
+This project is a practice project for Odin Project. I will demonstrate what I have learned so far by creating this basic recipe website.
